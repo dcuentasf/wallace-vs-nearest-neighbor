@@ -17,9 +17,8 @@ Simulations were performed in R using randomly generated primers of different le
 - Differences (ΔTm and |ΔTm|) analyzed
 
 ## Results
-- Wallace rule consistently overestimates Tm
-- Error increases with primer length
-- NN model provides more accurate estimates
+- Wallace rule seems to consistently overestimate Tm
+- NN model might underestimate Tm because concentration of Mg and dNTPs were not considered in the analysis
 
 ## Limitations
 - Effect of Mg2+ or dNTPs are not considered
